@@ -1,0 +1,2 @@
+.Tabs{display:-webkit-flex;display:flex}.Tab__titles{padding:20px;cursor:pointer}.Tabs__content{padding:20px;width:300px}.Tab__titles:after{content:"";display:block;width:0;height:2px;background:#ff8080}.Tab__titles:after,.Tab__titles:hover:after{-webkit-transition:width .3s;transition:width .3s}.Tab__titles:hover:after{width:100%}
+/*# sourceMappingURL=main.7fd13a43.chunk.css.map */
