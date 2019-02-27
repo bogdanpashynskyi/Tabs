@@ -14,12 +14,12 @@ class Tabs extends Component {
 			<div className="Tabs">
 				{children.map(child => { 
 					return <h3 
-					key={child.props.title}
-					className="Tab__titles"
-					onClick={() => {
-						this.setState({ currentTab: child.props.children })
-					}}> 
-					{child.props.title} 
+						key={child.props.title}
+						className="Tab__titles"
+						onClick={() => {
+							this.setState({ currentTab: child.props.children })
+						}}> 
+						{child.props.title} 
 					</h3>
 				})}
 				</div>
