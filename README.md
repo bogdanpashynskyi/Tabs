@@ -1,5 +1,6 @@
-[Previews](https://bogdanpashynskyi.github.io/tabs/)
-[PullRequest](https://github.com/bogdanpashynskyi/tabs/pull/1)
+[Preview](https://bogdanpashynskyi.github.io/tabs/)
+
+[PullRequest](https://github.com/bogdanpashynskyi/tabs/pull/2)
 
 ## Available Scripts
 
